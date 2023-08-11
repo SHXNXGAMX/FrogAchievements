@@ -1,0 +1,6 @@
+node_modules
+*.txt
+
+*.sublime-*
+manifest.json
+logo*.png
